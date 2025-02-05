@@ -46,7 +46,7 @@ Fruit Ninja VR is a virtual reality adaptation of the popular mobile game, devel
 For more details and updates, visit our project website: [Project Website](https://reuvensm.wixsite.com/fruitninja-vr)
 
 ## Gameplay Video
-Watch the gameplay video on YouTube: [Gameplay Video](https://youtu.be/9oVg7Gfdo4g) (Replace with actual link)
+Watch the gameplay video on YouTube: [Gameplay Video](https://youtu.be/9oVg7Gfdo4g)
 
 ## Contributors
 - Adi Ben Hayun
