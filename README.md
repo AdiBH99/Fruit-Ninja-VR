@@ -2,6 +2,7 @@
 
 ## Introduction
 Fruit Ninja VR is a virtual reality adaptation of the popular mobile game, developed using Unity for the Oculus Quest 2 platform. This project was part of our final academic project, allowing us to apply theoretical knowledge in game development and VR technology.
+For more details and updates, visit our project website: [Project Website](https://reuvensm.wixsite.com/fruitninja-vr)
 
 ## Features
 - **Three Gameplay Modes:**
@@ -41,9 +42,6 @@ Fruit Ninja VR is a virtual reality adaptation of the popular mobile game, devel
 
 ### Install APK (only on compiled platform)
 1. Download the [apk](https://github.com/AdiBH99/Fruit-Ninja-VR/releases/download/v1.0.0/fruitninja_vr.apk) and install it on an Oculus Quest 2 headset.
-
-## Website
-For more details and updates, visit our project website: [Project Website](https://reuvensm.wixsite.com/fruitninja-vr)
 
 ## Gameplay Video
 Watch the gameplay video on YouTube: [Gameplay Video](https://youtu.be/9oVg7Gfdo4g)
